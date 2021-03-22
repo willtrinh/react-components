@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: steelblue;
+  color: white;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  box-shadow: 8px 8px 5px 2px rgb(46 102 148 / 49%);
+}
+
+li {
+  background-color: rgb(46, 102, 148);
+  padding: 5px;
+  margin: 1px;
+}
